@@ -45,12 +45,7 @@ class _CalculadoraState extends State<Calculadora> {
   }
 
   String _calculate(String expression) {
-    // Aqui você pode usar uma expressão regular para avaliar a operação.
-    // O método abaixo usa o pacote `expressions` ou `math_expressions` para uma solução mais robusta
-    // Para simplificar, vamos usar a função eval, mas cuidado com a segurança ao usar ela em produção.
-
-    // No exemplo básico, usamos um pacote como math_expressions para fazer os cálculos
-    return expression; // Substitua com uma lógica de cálculo real
+  
   }
 
   @override
