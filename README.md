@@ -1,6 +1,3 @@
-flutter run -d chrome
-
-
 import 'package:flutter/material.dart';
 
 void main() {
@@ -99,3 +96,6 @@ class _CalculadoraState extends State<Calculadora> {
     );
   }
 }
+
+flutter run -d chrome
+
